@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manish Verma
 
-<!--
-**Manish04Analytics/Manish04Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- Data Analyst with healthcare & pharmaceutical background  
+- 2+ years experience in Sun Pharma, GE Healthcare and Merck  
+- Currently building skills in Python, SQL, Power BI  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Power BI, Tableau
+- Advanced Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Pharma Sales Analysis (in progress)
+- Healthcare Dashboard (in progress)
+
+## 🔗 Connect with Me
+- LinkedIn: www.linkedin.com/in/manish-verma-48319724a
